@@ -1,0 +1,30 @@
+{
+  "name": "another-hero-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeShennaike/another-hero-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeShennaike/another-hero-app/issues"
+  },
+  "homepage": "https://github.com/AdeShennaike/another-hero-app#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
